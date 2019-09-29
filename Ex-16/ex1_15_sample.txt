@@ -1,0 +1,3 @@
+my name is sudipto
+i like machine learning and AI
+now i am learning python
