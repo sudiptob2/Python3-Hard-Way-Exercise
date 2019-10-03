@@ -1,0 +1,16 @@
+import ex1_25 as e
+sentence = "All good things come to those who wait."
+words = e.break_words(sentence)
+print(words)
+sorted_words = e.sort_words(words)
+print(sorted_words)
+e.print_first_word(words)
+e.print_last_word(words)
+print(words)
+e.print_first_word(sorted_words)
+e.print_last_word(sorted_words)
+print(sorted_words)
+sorted_words = e.sort_sentence(sentence)
+print(sorted_words)
+e.print_first_and_last(sentence)
+e.print_first_and_last_sorted(sentence)
